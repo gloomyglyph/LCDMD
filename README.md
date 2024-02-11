@@ -1,7 +1,7 @@
 # Python Implementation of LCDMD
 
 ## This project implements the concepts and algorithms described in the article “Local community detection algorithm based on local modularity density
-” ([Article Link]) using Python.
+” (Local community detection algorithm based on local modularity density - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Illustration-of-the-two-stage-community-detection-process-of-LCDMD_fig3_351662412 [accessed 11 Feb, 2024]) using Python.
 
 ## Features
     1. Implements core algorithms from the article.
