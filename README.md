@@ -11,7 +11,7 @@
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/gloomyglyph/LCDMD.git>
    ```
 
 ## Usage
