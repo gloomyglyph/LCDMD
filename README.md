@@ -16,8 +16,8 @@
 
 ## Usage
 ### Do the things below just like the strike_etst.py file which includes a complete step by step usage of this project
-1. make a list implementation of your graph
-2. make an LCDMD instance for executing the article's algorithms
-3. given a node, find the core area and its extended community using the LCDMD instance
-4. make the true communities list for validation
-5. use f1 score for measurement
+1. Make a list implementation of your graph.
+2. Make an LCDMD instance for executing the article's algorithms.
+3. Given a node, find the core area and its extended community using the LCDMD instance.
+4. Make the true communities list for validation.
+5. Use f1 score for measurement.
